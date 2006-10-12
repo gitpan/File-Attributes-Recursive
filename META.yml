@@ -4,7 +4,7 @@ build_requires:
   Directory::Scratch: 0
   Test::More: 0
 distribution_type: module
-generated_by: Module::Install version 0.63
+generated_by: Module::Install version 0.64
 license: Perl
 name: File-Attributes-Recursive
 no_index: 
@@ -15,5 +15,5 @@ requires:
   Cwd: 0
   Exporter: 0
   File::Attributes: 0
-  File::Spec: 0
-version: 0.01
+  Path::Class: 0
+version: 0.02
